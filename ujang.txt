@@ -2,3 +2,5 @@ ini text dari ujang
 
 hai ujang
 ggggg
+
+text ini ditambahkan secara langsung di web github
